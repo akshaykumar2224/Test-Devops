@@ -17,7 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://www.google.com/')
 
-WebUI.delay(1)
-
 WebUI.closeBrowser()
 
